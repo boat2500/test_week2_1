@@ -1,0 +1,6 @@
+name.isUpperCase
+.toUpperCase
+
+Array.isArray
+
+name.join(" and ") 
